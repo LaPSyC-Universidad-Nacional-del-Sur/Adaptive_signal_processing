@@ -1,3 +1,3 @@
-# Modulo 1: Filtrado óptimo
+## Modulo 1: Filtrado óptimo
 
 ### 
