@@ -1,30 +1,21 @@
-# Demo teaching material template
-## About this teaching material
-This course...
+# Procesamiento Adaptativo de Señales
+#### About this teaching material
+#
+El contenido del curso es el siguiente
 
-## Main topics
-* This
-* That
+### Introducción
+### Procesos estacionarios y modelado
+### Filtros de Wiener
+### Predicción lineal
+### Filtros de Kalman
+### Método de Steepest Descent
+### Algoritmo Least Mean Square
+### Filtrado adaptativo en el domínio frecuencia
+### Método de cuadrados mínimos
+### Seguimiento de sistemas variantes en el tiempo
+### Efectos de precisión finita
+### Fundamentos de aprendizaje automático
 
-## What you will learn
-* This
-* That
-* ...
 
-## What you will need:
-* (Replace with list of required skills / knowledge)
-* (Specify also if any hardware / lab is required)
-
-
-***
-[![CC BY 4.0][cc-by-shield]][cc-by]
-
-This work is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by].
-
-[![CC BY 4.0][cc-by-image]][cc-by]
-
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 ![logo_neon_erasmus](https://user-images.githubusercontent.com/49734900/153255554-d0157b48-ceea-40c7-9ca8-ce098fe193e8.png)
