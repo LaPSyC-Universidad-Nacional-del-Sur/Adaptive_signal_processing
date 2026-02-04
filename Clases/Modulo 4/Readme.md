@@ -1,1 +1,2 @@
-# Tracking y efectos de implementación
+## Tracking 
+## Efectos de implementación
