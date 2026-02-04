@@ -1,3 +1,3 @@
-# Modulo 3: Cuadrados mínimos
+## Modulo 3: Cuadrados mínimos
 
 ## 
