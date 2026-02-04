@@ -1,3 +1,3 @@
-# Module 2
+# Modulo 2: Least Mean Square
 
-## About this module
+## 
