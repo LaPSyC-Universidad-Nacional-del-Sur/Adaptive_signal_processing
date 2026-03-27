@@ -2,6 +2,9 @@
 #### Aquí dejaremos listados de problemas de diferentes capítulos del libro Adaptive Filter Theory - S. Haykin (5ta ed.)
 #### Los problemas resueltos deben entregarse (por escrito) al final del curso y determinan parte de la nota final.
 ####
+##### Clase 1  -  (CAP1H) 1, 4, 7, 11, 13, 16
+##### Clase 2  - (CAP2H) 2, 5, 7, 8, 10, 11, 13
+##### Clase 3 - (CAP3H) 1, 4, 6, 11, 14, 16, 25
 ####
 ####
 #### Monografía
