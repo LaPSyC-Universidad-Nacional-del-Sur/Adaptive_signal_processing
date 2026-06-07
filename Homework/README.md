@@ -10,8 +10,8 @@
 ##### Clase 6 - (CAP5H) 1, 3, 5; (CAP6H) 3, 4, 7, 12, 15, 17,18; (CAP7H) 9, 10; (CAP11H) 10
 ##### Clase 7 - (CAP8H) 4, 6
 ##### Clase 8 - (CAP9H) 5, 6, 16; (CAP10H) 1, 7, 9, 10
-##### Clase 9
-##### Clase 10
+##### Clase 9 - (CAP13H) 3, 5, 9, 12, 14, 15
+##### Clase 10 - (CAP12H) 3, 6, 7
 ####
 ####
 #### Monografía
