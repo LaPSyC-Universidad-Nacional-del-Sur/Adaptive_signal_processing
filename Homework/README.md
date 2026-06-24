@@ -1,5 +1,5 @@
-#### Trabajos prácticos
-#### Aquí dejaremos listados de problemas de diferentes capítulos del libro Adaptive Filter Theory - S. Haykin (5ta ed.)
+### Trabajos prácticos
+#### Aquí dejamos listados de problemas de diferentes capítulos del libro Adaptive Filter Theory - S. Haykin (5ta ed.)
 #### Los problemas resueltos deben entregarse (por escrito) al final del curso y determinan parte de la nota final.
 ####
 ##### Clase 1 - (CAP1H) 1, 4, 7, 11, 13, 16
@@ -14,7 +14,7 @@
 ##### Clase 10 - (CAP12H) 3, 6, 7
 ####
 ####
-#### Monografía
+### Monografía
 ##### El objetivo de la monografía es elaborar sobre una temática relacionada con extensiones de los contenidos del curso. Elaborar, en este caso, es explicar sintéticamente, tanto con esquemas como descripciones, las interpretaciones de aspectos de las temáticas propuestas.  Se brindará un artículo, como referencia tutorial, aunque se espera que puedan consultar otras referencias y/o fuentes.
 #####
 #### Formato: 
@@ -26,44 +26,44 @@
 ####
 ####
 #####
-#### Temas: 
+### Temas: 
 #####
-##### 1.	Cárcamo - Comparación FIR directo y Lattice LMS en identificación de sistemas
+#### 1.	Cárcamo - Comparación FIR directo y Lattice LMS en identificación de sistemas
 ##### Curvas de aprendizaje (MSE y coeficientes) en contexto ESA. Especificación y verificación desajuste y varianza de coeficientes.
 ##### 
-##### 2.	Balbo - Comparación FIR directo y Lattice LMS en ecualización
+#### 2.	Balbo - Comparación FIR directo y Lattice LMS en ecualización
 ##### Curvas de aprendizaje (MSE y coeficientes) en contexto ESA. Especificación y verificación desajuste y varianza de coeficientes.
 ##### 
-##### 3.	Vásquez - Comparación Wiener compuesto y LMS en identificación de sistemas
+#### 3.	Vásquez - Comparación Wiener compuesto y LMS en identificación de sistemas
 ##### Especificación y verificación desajuste y varianza coeficientes. Comparación de complejidades.
 #####
-##### 4.	Ruiz - Comparación Wiener compuesto y RLS en identificación de sistemas
+#### 4.	Ruiz - Comparación Wiener compuesto y RLS en identificación de sistemas
 ##### Especificación y verificación desajuste y varianza coeficientes. Comparación de complejidades.
 #####
-##### 5.	Arias - Esquema de precompensación con ambos LMS (según referencia)
+#### 5.	Arias - Esquema de precompensación con ambos LMS (según referencia)
 ##### Verificación de la precompensación. Curva de aprendizaje (MSE y coeficientes). 
 #####
-##### 6.	Garcés - Efectos de longitud finita de palabra en RLS en ecualización lineal
+#### 6.	Garcés - Efectos de longitud finita de palabra en RLS en ecualización lineal
 ##### Modelar ruidos de cuantización de entrada – salida y de implementación. Comparación de curvas de aprendizaje (MSE y coeficientes) ideal y de implementación.
 #####
-##### 7.	Guerra - Comparación de RLS y LMS en tracking y ecualización lineal
+#### 7.	Guerra - Comparación de RLS y LMS en tracking y ecualización lineal
 ##### Modelo básico (Markov de 1er. Orden) de no estacionariedad. Ejemplos con PRBS de entrada. Curva de aprendizaje (MSE y coeficientes).
 #####
-##### 8.	Lacención - Comparación de RLS y LMS en tracking e identificación de sistemas
+#### 8.	Lacención - Comparación de RLS y LMS en tracking e identificación de sistemas
 ##### Modelo básico (Markov de 1er. Orden) de no estacionariedad. Ejemplos con PRBS de entrada. Curva de aprendizaje (MSE y coeficientes).
 #####
-##### 9.	Lema - Efectos de longitud finita de palabra en LMS en ecualización lineal
+#### 9.	Lema - Efectos de longitud finita de palabra en LMS en ecualización lineal
 ##### Modelar ruidos de cuantización de entrada – salida y de implementación. Comparación de curvas de aprendizaje (MSE y coeficientes) ideal y de implementación.
 #####
-##### 10.	Villar - Esquema de precompensación con ambos RLS (según referencia)
+#### 10.	Villar - Esquema de precompensación con ambos RLS (según referencia)
 ##### Verificación de la precompensación. Curva de aprendizaje (MSE y coeficientes).
 #####
-##### 11.	Ferreyra - Comparación de LMS normalizado en diferentes versiones en ecualización lineal
+#### 11.	Ferreyra - Comparación de LMS normalizado en diferentes versiones en ecualización lineal
 ##### Curvas de aprendizaje (MSE y coeficientes) en contexto ESA. Especificación y verificación desajuste y varianza de coeficientes.
 #####
-##### 12.	Martínez - Comparación de LMS normalizado en diferentes versiones en identificación de sistemas
+#### 12.	Martínez - Comparación de LMS normalizado en diferentes versiones en identificación de sistemas
 ##### Curvas de aprendizaje (MSE y coeficientes) en contexto ESA. Especificación y verificación desajuste y varianza de coeficientes.
 #####
-##### En cada casa la idea es realizar las implementaciones en Matlab e ilustrar los resultados a través de las simulaciones solicitadas.
+#### En cada casa la idea es realizar las implementaciones en Matlab e ilustrar los resultados a través de las simulaciones solicitadas.
 #####
 
