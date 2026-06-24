@@ -26,4 +26,44 @@
 ####
 ####
 #####
-#### Temas: A definir para cada alumno proximamente.
+#### Temas: 
+#####
+##### 1.	Cárcamo - Comparación FIR directo y Lattice LMS en identificación de sistemas
+##### Curvas de aprendizaje (MSE y coeficientes) en contexto ESA. Especificación y verificación desajuste y varianza de coeficientes.
+##### 
+##### 2.	Balbo - Comparación FIR directo y Lattice LMS en ecualización
+##### Curvas de aprendizaje (MSE y coeficientes) en contexto ESA. Especificación y verificación desajuste y varianza de coeficientes.
+##### 
+##### 3.	Vásquez - Comparación Wiener compuesto y LMS en identificación de sistemas
+##### Especificación y verificación desajuste y varianza coeficientes. Comparación de complejidades.
+#####
+##### 4.	Ruiz - Comparación Wiener compuesto y RLS en identificación de sistemas
+##### Especificación y verificación desajuste y varianza coeficientes. Comparación de complejidades.
+#####
+##### 5.	Arias - Esquema de precompensación con ambos LMS (según referencia)
+##### Verificación de la precompensación. Curva de aprendizaje (MSE y coeficientes). 
+#####
+##### 6.	Garcés - Efectos de longitud finita de palabra en RLS en ecualización lineal
+##### Modelar ruidos de cuantización de entrada – salida y de implementación. Comparación de curvas de aprendizaje (MSE y coeficientes) ideal y de implementación.
+#####
+##### 7.	Guerra - Comparación de RLS y LMS en tracking y ecualización lineal
+##### Modelo básico (Markov de 1er. Orden) de no estacionariedad. Ejemplos con PRBS de entrada. Curva de aprendizaje (MSE y coeficientes).
+#####
+##### 8.	Lacención - Comparación de RLS y LMS en tracking e identificación de sistemas
+##### Modelo básico (Markov de 1er. Orden) de no estacionariedad. Ejemplos con PRBS de entrada. Curva de aprendizaje (MSE y coeficientes).
+#####
+##### 9.	Lema - Efectos de longitud finita de palabra en LMS en ecualización lineal
+##### Modelar ruidos de cuantización de entrada – salida y de implementación. Comparación de curvas de aprendizaje (MSE y coeficientes) ideal y de implementación.
+#####
+##### 10.	Villar - Esquema de precompensación con ambos RLS (según referencia)
+##### Verificación de la precompensación. Curva de aprendizaje (MSE y coeficientes).
+#####
+##### 11.	Ferreyra - Comparación de LMS normalizado en diferentes versiones en ecualización lineal
+##### Curvas de aprendizaje (MSE y coeficientes) en contexto ESA. Especificación y verificación desajuste y varianza de coeficientes.
+#####
+##### 12.	Martínez - Comparación de LMS normalizado en diferentes versiones en identificación de sistemas
+##### Curvas de aprendizaje (MSE y coeficientes) en contexto ESA. Especificación y verificación desajuste y varianza de coeficientes.
+#####
+##### En cada casa la idea es realizar las implementaciones en Matlab e ilustrar los resultados a través de las simulaciones solicitadas.
+#####
+
