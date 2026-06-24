@@ -64,6 +64,7 @@
 #### 12.	Martínez - Comparación de LMS normalizado en diferentes versiones en identificación de sistemas
 ##### Curvas de aprendizaje (MSE y coeficientes) en contexto ESA. Especificación y verificación desajuste y varianza de coeficientes.
 #####
+#####
 #### En cada casa la idea es realizar las implementaciones en Matlab e ilustrar los resultados a través de las simulaciones solicitadas.
 #####
 
