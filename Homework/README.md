@@ -65,6 +65,6 @@
 ##### Curvas de aprendizaje (MSE y coeficientes) en contexto ESA. Especificación y verificación desajuste y varianza de coeficientes.
 ##
 ##
-### En cada caso, la idea es realizar las implementaciones en Matlab e ilustrar los resultados a través de las simulaciones (promediando según método Montecarlo) que permitan visualizar resultados. La elaboración de estos resultados deberá presentarse siguiendo las pautas de la monografía.
+### En cada caso, la idea es realizar las implementaciones en Matlab e ilustrar los resultados a través de simulaciones (promediando según método Montecarlo para faacilitar visualización). La elaboración de estos resultados deberá presentarse siguiendo las pautas de la monografía.
 #####
 
