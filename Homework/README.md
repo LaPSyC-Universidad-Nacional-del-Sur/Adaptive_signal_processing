@@ -26,7 +26,7 @@
 ####
 ####
 #####
-## Temas: 
+## Temas Curso 2026: 
 #####
 ### 1.	Cárcamo - Comparación FIR directo y Lattice LMS en identificación de sistemas
 ##### Curvas de aprendizaje (MSE y coeficientes) en contexto ESA. Especificación y verificación desajuste y varianza de coeficientes.
@@ -65,6 +65,6 @@
 ##### Curvas de aprendizaje (MSE y coeficientes) en contexto ESA. Especificación y verificación desajuste y varianza de coeficientes.
 ##
 ##
-### En cada caso, la idea es realizar las implementaciones en Matlab e ilustrar los resultados a través de las simulaciones solicitadas. La elaboración de estos resultados deberá presentarse siguiendo las pautas de la monografía.
+### En cada caso, la idea es realizar las implementaciones en Matlab e ilustrar los resultados a través de las simulaciones (promediando según método Montecarlo) que permitan visualizar resultados. La elaboración de estos resultados deberá presentarse siguiendo las pautas de la monografía.
 #####
 
