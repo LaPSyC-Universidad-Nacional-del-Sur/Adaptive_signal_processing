@@ -61,8 +61,8 @@
 ### 11.	Ferreyra - Comparación de RLS y LMS en tracking y ecualización lineal
 ##### Modelo básico (Markov de 1er. Orden) de no estacionariedad. Ejemplos con PRBS de entrada. Curva de aprendizaje (MSE y coeficientes)
 #####
-### 12.	Martínez - Comparación de LMS normalizado en diferentes versiones (signo del error, signo – signo, etc.) en ecualización.
-##### Curvas de aprendizaje (MSE y coeficientes) en contexto ESA. Especificación y verificación desajuste y varianza de coeficientes.
+### 12.	Martínez - Esquema de compensación "Error filtrado" con RLS (según referencia)
+##### Verificación de la precompensación. Curva de aprendizaje (MSE y coeficientes).
 ##
 ##
 ### En cada caso, la idea es realizar las implementaciones en Matlab e ilustrar los resultados a través de simulaciones (promediando según método Montecarlo para facilitar visualización). La elaboración de estos resultados deberá presentarse siguiendo las pautas de la monografía.
