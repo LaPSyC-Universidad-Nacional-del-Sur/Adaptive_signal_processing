@@ -1,3 +1,9 @@
+## Plazos de entrega:
+##### 
+### Trabajos prácticos: 15 de septiembre de 2026
+### Monografía: 20 de octubre de 2026
+#####
+##### 
 ## Trabajos prácticos
 #### Aquí dejamos listados de problemas de diferentes capítulos del libro Adaptive Filter Theory - S. Haykin (5ta ed.)
 #### Los problemas resueltos deben entregarse (por escrito) al final del curso y determinan parte de la nota final.
@@ -22,8 +28,6 @@
 #####
 #### Que se evalúa: 
 ##### Desarrollo del concepto, objetividad y síntesis de contenidos, simulaciones demostrativas en contextos simples, formato adecuado.
-####
-####
 ####
 #####
 ## Temas Curso 2026: 
